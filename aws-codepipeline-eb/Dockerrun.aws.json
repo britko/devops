@@ -1,7 +1,7 @@
 {
     "AWSEBDockerrunVersion": "1",
     "Image": {
-        "Name": "clouacode/devops-flask"
+        "Name": "britko/devops"
     },
     "Ports": [
         {
